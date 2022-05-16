@@ -3,7 +3,6 @@ const express = require('express')
 const axios = require('axios')
 const cheerio = require('cheerio')
 
-
 const { response } = require('express')
 const res = require('express/lib/response')
 const req = require('express/lib/request')
@@ -29,6 +28,36 @@ const { attr } = require('cheerio/lib/api/attributes')
         name:'telegraph',
         address: 'https://www.telegraph.co.uk/climate-change',
         base:''
+    },
+    {
+        name:'economist',
+        address: 'https://www.economist.com/climate-change?utm_medium=cpc.adword.pd&utm_source=google&utm_campaign=a_21climatechange.2021-10-07&utm_content=conversion.other-brand.anonymous&gclid=Cj0KCQjwg_iTBhDrARIsAD3Ib5jOMEDTC_P9bPBEwkhIT4OTtiULsrOCg1MQ1g-P2TTlwMQ-vz2foIMaAjaoEALw_wcB&gclsrc=aw.ds',
+        base:''
+    },    
+    {
+        name:'bbc',
+        address: 'https://www.bbc.com/news/science-environment-56837908 ',
+        base:''
+    },
+    {
+        name:'downtoearth',
+        address: 'https://www.downtoearth.org.in/climate-change ',
+        base:''
+    },
+   {
+        name:'cnn',
+        address: 'https://edition.cnn.com/specials/world/cnn-climate ',
+        base:''
+    },
+   {
+        name:'nasa',
+        address: 'https://climate.nasa.gov/',
+        base:''
+    },
+   {
+        name:'who',
+        address: 'https://www.who.int/health-topics/climate-change',
+        base:''
     }
  ]
 const articles = []
@@ -52,8 +81,6 @@ newspapers.forEach(newspaper => {
         })
     })
 })
-
-
 
 
 
