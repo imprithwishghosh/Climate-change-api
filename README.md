@@ -25,14 +25,16 @@
 	<a href="#contact">Contact</a> 
 </p>
 
-## About
-# Link 1: 
-https://cliapi.herokuapp.com/
-#Link 2:
+## Links:
+https://cliapi.herokuapp.com/ 
+
+## Link 1:
 https://cliapi.herokuapp.com/news
-#Link 3:
+
+## Link 2:
 https://cliapi.herokuapp.com/thetimes  
-Note : You can use specific newspapers name e.g. bbc, thetimes ,cnn
+
+##Note : You can use specific newspapers name e.g. bbc, thetimes ,cnn
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript" alt="javascript Badge" height="25">&nbsp;
