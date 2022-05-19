@@ -1,4 +1,3 @@
-#Climate-change-api
 <h1 align="center">
 	Climate-Change-API
 </h1>
@@ -8,14 +7,10 @@
 </h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/>
 	<img src="https://img.shields.io/github/repo-size/imprithwishghosh/Climate-change-api?color=green"/>
 	<img src="https://img.shields.io/github/last-commit/imprithwishghosh/Climate-change-api?color=green"/>
 	<img src="https://img.shields.io/github/languages/count/imprithwishghosh/Climate-change-api?color=green"/>
 	<img src="https://img.shields.io/github/contributors/imprithwishghosh/Climate-change-api?color=green"/>
-	<img src="https://img.shields.io/github/issues-raw/imprithwishghosh/Climate-change-api?color=green"/>
-	<img src="https://img.shields.io/github/issues-closed-raw/imprithwishghosh/Climate-change-api?color=green"/>
-	<img src="https://img.shields.io/github/issues-pr-raw/imprithwishghosh/Climate-change-api?color=green"/>
 </p>
 
 <h4 align="center">
@@ -23,11 +18,21 @@
 </h4>
 
 <p align="center">
+	<a href="#about">About</a> •
 	<a href="#tech-stack">Tech Stack</a> •
 	<a href="#installation">Installation</a> •
 	<a href="#usage">Usage</a> • 
 	<a href="#contact">Contact</a> 
 </p>
+
+## About
+# Link 1: 
+https://cliapi.herokuapp.com/
+#Link 2:
+https://cliapi.herokuapp.com/news
+#Link 3:
+https://cliapi.herokuapp.com/thetimes  
+Note : You can use specific newspapers name e.g. bbc, thetimes ,cnn
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript" alt="javascript Badge" height="25">&nbsp;
@@ -53,6 +58,7 @@ To use this project, follow the steps above:
 # follow the url https://cliapi.herokuapp.com/ you will get to see homepage
 # follow the same url with /news you will get information about climate change from various websites and news such as bbc , NASA, CNN etc
 # If you are searching for specific newspaper such as thetimes type https://cliapi.herokuapp.com/thetimes here you will get specified climate information from thetimes newspaper
+
 ```
 
 ## Contact
