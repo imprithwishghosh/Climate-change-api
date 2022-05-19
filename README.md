@@ -42,6 +42,8 @@ To Install this project, follow the steps above:
 - type npm run start and open any web browser with your localhost address (here i have defined the PORT AS 8080 so use that ) 
 
 #  directly you can redirect to this link : 
+- suppose 127.0.0.1:8080/news
+alternately you can use 127.0.0.1:8080/news/thetimes
 ```
 
 ## Usage
